@@ -11,3 +11,5 @@ https://m.youtube.com/watch?v=uQU6KdUAviI
 $git clone https://github.com/koyanokou/kadai2.git
 $roslaunch mypkg mypkg.launch
 ```
+## ブラウザの確認方法
+ブラウザにてhttp://<Raspberry PiのIPアドレス>:8000と入力.
