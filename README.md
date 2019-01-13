@@ -9,5 +9,5 @@ https://m.youtube.com/watch?v=uQU6KdUAviI
 ## 使用方法
 ```
 $git clone https://github.com/koyanokou/kadai2.git
-$ roslaunch mypkg mypkg.launch
+$roslaunch mypkg mypkg.launch
 ```
