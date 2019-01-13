@@ -1,7 +1,7 @@
 # robsys_kadai_1
 # ロボットシステム学課題2
 ## 概要
-講義内で行われた内容の再現とパラメータ変更
+講義内で行われた内容の再現とパラメータ変更，
 ブラウザで数字を加算し続ける
 ## 動画URL
 https://m.youtube.com/watch?v=uQU6KdUAviI
